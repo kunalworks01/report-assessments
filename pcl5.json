@@ -1,0 +1,25 @@
+{
+  "scale": "PCL-5",
+  "questions": [
+    {
+      "text": "Repeated, disturbing memories of the stressful experience?",
+      "options": ["Not at all", "A little bit", "Moderately", "Quite a bit", "Extremely"]
+    },
+    {
+      "text": "Avoiding memories, thoughts, or feelings related to the experience?",
+      "options": ["Not at all", "A little bit", "Moderately", "Quite a bit", "Extremely"]
+    },
+    {
+      "text": "Feeling distant or cut off from other people?",
+      "options": ["Not at all", "A little bit", "Moderately", "Quite a bit", "Extremely"]
+    },
+    {
+      "text": "Trouble experiencing positive feelings?",
+      "options": ["Not at all", "A little bit", "Moderately", "Quite a bit", "Extremely"]
+    },
+    {
+      "text": "Feeling irritable or having angry outbursts?",
+      "options": ["Not at all", "A little bit", "Moderately", "Quite a bit", "Extremely"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scale": "PHQ-9",
+  "questions": [
+    {
+      "text": "Little interest or pleasure in doing things?",
+      "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    },
+    {
+      "text": "Feeling down, depressed, or hopeless?",
+      "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }
+  ]
+}

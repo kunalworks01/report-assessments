@@ -1,0 +1,25 @@
+{
+  "scale": "MDQ",
+  "questions": [
+    {
+      "text": "Has there ever been a period when you felt so good or hyper that others thought you were not your normal self?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Were you more talkative or spoke faster than usual?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Did you have racing thoughts?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Did you engage in risky behavior (e.g., spending sprees, sexual indiscretions)?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Did these experiences cause problems at work, school, or with others?",
+      "options": ["Yes", "No"]
+    }
+  ]
+}

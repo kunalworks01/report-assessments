@@ -1,0 +1,25 @@
+{
+  "scale": "ASRS v1.1",
+  "questions": [
+    {
+      "text": "How often do you have trouble wrapping up the final details of a project once the challenging parts have been done?",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+    },
+    {
+      "text": "How often do you have difficulty getting things in order when you have to do a task that requires organization?",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+    },
+    {
+      "text": "How often do you have problems remembering appointments or obligations?",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+    },
+    {
+      "text": "How often do you fidget or squirm with your hands or feet when you have to sit down for a long time?",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+    },
+    {
+      "text": "How often do you feel overly active and compelled to do things, like you were driven by a motor?",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+    }
+  ]
+}
